@@ -1,0 +1,13 @@
+.ball {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 10px;
+  border: 2px solid rgba(0, 0, 0, 0.37);
+}
+
+.hitedElement {
+  border: 2px solid rgb(8, 134, 8);
+  box-shadow: 0 0 10px rgb(121, 182, 113);
+}
